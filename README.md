@@ -1,2 +1,2 @@
-# scribble-example
+# scribble-example [![Build Status](https://travis-ci.org/jackfirth/scribble-example.svg)](https://travis-ci.org/jackfirth/scribble-example) [![Coverage Status](https://coveralls.io/repos/jackfirth/scribble-example/badge.svg?branch=master&service=github)](https://coveralls.io/github/jackfirth/scribble-example?branch=master)
 Utility library for defining examples forms in Racket Scribble documentation
