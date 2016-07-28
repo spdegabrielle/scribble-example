@@ -10,7 +10,7 @@
 (define deps
   '("scribble-lib"
     "base"
-    "sweet-exp"
+    "sweet-exp-lib"
     "reprovide-lang"
     "fancy-app"))
 
