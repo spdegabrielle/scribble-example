@@ -11,7 +11,7 @@
   '("scribble-lib"
     "base"
     "sweet-exp-lib"
-    "reprovide-lang"
+    "reprovide-lang-lib"
     "fancy-app"))
 
 
