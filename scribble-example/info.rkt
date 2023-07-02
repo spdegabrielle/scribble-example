@@ -3,4 +3,4 @@
 
 (define name "scribble-example")
 
-(define scribblings '(("main.scrbl" () (library) "scribble-example")))
+(define scribblings '(("main.scrbl" () ("Scribble Libraries") "scribble-example")))
